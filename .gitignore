@@ -1,0 +1,14 @@
+.bat
+.iso
+
+.d
+.elf
+.gba
+.sav
+/out
+gba/build
+gc/build
+
+
+build.bat
+copy_to_randomizer.bat

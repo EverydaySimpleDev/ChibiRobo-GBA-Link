@@ -1,0 +1,26 @@
+XL4
+H A areas 3 global symbols
+M main
+S .__.ABS. Def00000000
+S _printf Ref00000000
+A _CODE size 1B flags 0 addr 0
+S _main Def00000000
+A _HRAM size 0 flags 0 addr 0
+A _DATA size 0 flags 0 addr 0
+A _INITIALIZED size 0 flags 0 addr 0
+A _DABS size 0 flags 8 addr 0
+A _HOME size 0 flags 0 addr 0
+A _GSINIT size 0 flags 0 addr 0
+A _GSFINAL size 0 flags 0 addr 0
+A _INITIALIZER size 0 flags 0 addr 0
+A _CABS size 0 flags 8 addr 0
+T 00 00 00 00
+R 00 00 00 00
+T 00 00 00 00 11 09 00 D5 CD 00 00 E1 C9
+R 00 00 00 00 00 05 00 00 02 09 01 00
+T 09 00 00 00
+R 00 00 00 00
+T 09 00 00 00 48 65 6C 6C 6F 20 43 68 69 62 69 20
+R 00 00 00 00
+T 15 00 00 00 52 6F 62 6F 21 00
+R 00 00 00 00
